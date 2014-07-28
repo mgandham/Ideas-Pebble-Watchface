@@ -1,0 +1,40 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "manugandham@outlook.com",
+    "longName": "butterfly v1",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/bfly_ru.png",
+                "name": "BFLY_RU",
+                "type": "png"
+            },
+            {
+                "file": "images/bfly_rd.png",
+                "name": "BFLY_RD",
+                "type": "png"
+            },
+            {
+                "file": "images/bfly_lu.png",
+                "name": "BFLY_LU",
+                "type": "png"
+            },
+            {
+                "file": "images/bfly_ld.png",
+                "name": "BFLY_LD",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "butterfly v1",
+    "uuid": "74b69ef9-17d3-4b3a-afbc-3c3bdd292307",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
